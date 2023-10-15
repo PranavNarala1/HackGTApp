@@ -1,4 +1,4 @@
-# Website Link: https://github.com/PranavNarala1/HackGTApp/tree/main
+# Website Link: https://pranavnarala1.github.io/HackGTApp/
 
 # Getting Started with Create React App
 
