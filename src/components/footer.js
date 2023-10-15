@@ -59,7 +59,7 @@ sx={{
           height: 130,
       }} alt="" src={pranav_img} />
       <Typography variant="h7" align="center" color="black" gutterBottom>
-      Hello, my name is Pranav Narala! I enjoy researching/exploring novel machine learning and data science breakthroughs. It fascinates me how we can apply complex mathematical algorithms to better understand the world around us. In my free time, I enjoy watching sports and cooking!
+      Hello, my name is Pranav Narala! I enjoy researching/exploring novel machine learning and data science breakthroughs. It fascinates me how we can apply complex mathematical algorithms to better understand our world. In my free time, I enjoy watching sports and cooking!
       </Typography>
       </Paper>
       <Paper elevation={4}>
