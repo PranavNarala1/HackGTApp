@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/HackGTApp/static/css/main.073c9b0a.css",
-    "main.js": "/HackGTApp/static/js/main.b37ce8f1.js",
+    "main.css": "/HackGTApp/static/css/main.45943ac2.css",
+    "main.js": "/HackGTApp/static/js/main.8786c013.js",
     "static/js/787.28cb0dcd.chunk.js": "/HackGTApp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image.png": "/HackGTApp/static/media/image.1264d92cb0cc112987ae.png",
+    "static/media/BuzzCardPhoto.png": "/HackGTApp/static/media/BuzzCardPhoto.b732e6e774fbdf3c9861.png",
+    "static/media/Untitled drawing (6).png": "/HackGTApp/static/media/Untitled drawing (6).67b9064f4d397ab6790c.png",
+    "static/media/IMG_2006.jpg": "/HackGTApp/static/media/IMG_2006.6568ee097d783ef596a1.jpg",
+    "static/media/B175DF06-6459-4FF5-B916-F980888AD46E.JPG": "/HackGTApp/static/media/B175DF06-6459-4FF5-B916-F980888AD46E.a3082b37e3b9d9f41526.JPG",
+    "static/media/headshot.jfif": "/HackGTApp/static/media/headshot.306f83f0c4651a23e9aa.jfif",
+    "static/media/pasted image 0.png": "/HackGTApp/static/media/pasted image 0.02b84cd42d1b5407e5c9.png",
     "static/media/logo.svg": "/HackGTApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/HackGTApp/index.html",
-    "main.073c9b0a.css.map": "/HackGTApp/static/css/main.073c9b0a.css.map",
-    "main.b37ce8f1.js.map": "/HackGTApp/static/js/main.b37ce8f1.js.map",
+    "main.45943ac2.css.map": "/HackGTApp/static/css/main.45943ac2.css.map",
+    "main.8786c013.js.map": "/HackGTApp/static/js/main.8786c013.js.map",
     "787.28cb0dcd.chunk.js.map": "/HackGTApp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b37ce8f1.js"
+    "static/css/main.45943ac2.css",
+    "static/js/main.8786c013.js"
   ]
 }
