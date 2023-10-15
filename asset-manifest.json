@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/HackGTApp/static/css/main.073c9b0a.css",
-    "main.js": "/HackGTApp/static/js/main.d0a58792.js",
+    "main.js": "/HackGTApp/static/js/main.662a871f.js",
     "static/js/787.28cb0dcd.chunk.js": "/HackGTApp/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/HackGTApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/HackGTApp/index.html",
     "main.073c9b0a.css.map": "/HackGTApp/static/css/main.073c9b0a.css.map",
-    "main.d0a58792.js.map": "/HackGTApp/static/js/main.d0a58792.js.map",
+    "main.662a871f.js.map": "/HackGTApp/static/js/main.662a871f.js.map",
     "787.28cb0dcd.chunk.js.map": "/HackGTApp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d0a58792.js"
+    "static/js/main.662a871f.js"
   ]
 }
